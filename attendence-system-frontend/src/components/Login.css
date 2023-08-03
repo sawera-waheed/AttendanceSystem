@@ -1,0 +1,23 @@
+.login_form_container {
+  display: flex;
+  justify-content: center;
+}
+
+.login_form_container form {
+  padding: 1.5rem;
+  margin-top: 6rem;
+  width: 40%;
+  border: 1px solid lightgrey;
+}
+
+.bootstrap_alert {
+  height: 2.5rem;
+  display: flex;
+  align-items: center;
+}
+
+.fp_link {
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: 500;
+}

@@ -1,0 +1,46 @@
+.nav {
+  background-color: #36454f;
+  height: 4rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: "Poppins", sans-serif;
+}
+
+.logo {
+  color: white;
+  font-weight: bold;
+  margin-left: 2rem;
+}
+
+.menu {
+  width: 20%;
+  margin-right: 4rem;
+  display: grid;
+  align-items: flex-end;
+}
+
+.menu ul {
+  width: 100%;
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  margin: 0;
+}
+
+.menu ul li {
+  font-weight: 400;
+}
+
+.menu ul li:hover {
+  cursor: pointer;
+}
+
+.nav_link {
+  color: white;
+  text-decoration: none;
+}
+
+.nav_link:hover {
+  color: orange;
+}

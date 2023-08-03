@@ -1,0 +1,25 @@
+/* NotAuthorizedPage.css */
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 90vh;
+}
+
+.status {
+  font-size: 6rem;
+  font-weight: bold;
+}
+
+.unauthorize_title {
+  font-size: 36px;
+  font-weight: bold;
+  color: #333;
+}
+
+.message {
+  font-size: 20px;
+  color: #999;
+}

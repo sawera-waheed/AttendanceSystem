@@ -1,0 +1,42 @@
+.btns_container_holder {
+  display: flex;
+  justify-content: center;
+  margin-top: 1rem;
+}
+
+.btns_container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 5rem;
+  width: 50%;
+  background-color: white;
+  border-radius: 10px;
+  padding: 1rem;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 5px 0px,
+    rgba(0, 0, 0, 0.1) 0px 0px 1px 0px;
+}
+
+.btns_container h5 {
+  font-family: "Lora", serif;
+
+  margin: 0;
+  padding: 0;
+}
+
+/* .btns_container_title h3 {
+  font-weight: bold;
+  color: rgba(0, 0, 0, 0.8);
+} */
+
+.btns_group {
+  width: 38%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.btns_group button {
+  font-weight: 500;
+  height: 45px;
+}

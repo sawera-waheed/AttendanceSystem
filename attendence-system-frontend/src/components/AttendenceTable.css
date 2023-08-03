@@ -1,0 +1,15 @@
+.table_container {
+  display: flex;
+  justify-content: center;
+}
+
+.attendence_table {
+  width: 50% !important;
+  margin-top: 3rem;
+}
+
+.table {
+  border-radius: 5rem !important;
+  border-collapse: separate;
+  background-color: bwhite;
+}

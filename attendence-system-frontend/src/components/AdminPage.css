@@ -1,0 +1,20 @@
+.admin_table_container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.admin_attendence_table {
+  /* font-weight: bo; */
+  width: 50% !important;
+  margin-top: 3rem;
+}
+
+Table .btn_style {
+  font-weight: bold;
+}
+
+.admin_buttons_container {
+  display: flex;
+  justify-content: flex-end;
+}
